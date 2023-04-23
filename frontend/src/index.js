@@ -1,5 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+
+
+import 'bootstrap/dist/css/bootstrap.css'; //Bootstrap css
+import 'bootstrap/dist/js/bootstrap.bundle' //Bootstrap js
+
+
 import './index.css';
 import App from './App';
 
